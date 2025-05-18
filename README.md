@@ -1,4 +1,4 @@
-Screening Test - Full Stack Developer (Tandemloop) Candidate Name: Obbilisetti LAkshmi Language Used: Python
+Screening Test - Full Stack Developer (Tandemloop) Candidate Name: Obbilisetti Lakshmi Language Used: Python
 
 Problem-1 A simple calculator  to perform basic operations (Add, Subtract, Multiply, Divide) on two double values.
 
